@@ -3,3 +3,5 @@
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 <https://allcontributors.org/docs/en/bot/installation>
+
+<https://allcontributors.org/docs/en/bot/usage>
